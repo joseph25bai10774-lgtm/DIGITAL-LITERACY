@@ -6,8 +6,8 @@ This project covers digital literacy through an infographic, a portfolio on GitH
 DIGITAL LITERACY PROJECT
 
 Student details
-  Joseph Binson 
-  25BAI10774
+  # Joseph Binson 
+  # 25BAI10774
 
   Project Overview
 
